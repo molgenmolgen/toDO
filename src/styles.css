@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+.input-area {
+  background-color: aqua;
+}
+.imcomplete-area {
+  background-color: #dfdf11;
+}
+.complete-area {
+  background-color: #cdcdcd;
+}
